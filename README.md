@@ -1,1 +1,1 @@
-# M2_Project_namemg
+# M2_Project_servomotor_control_using_pot
