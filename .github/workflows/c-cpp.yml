@@ -13,6 +13,8 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+    - name: get_avr-gcc
+      run: sudo apt-get install gcc-avr binutils-avr avr-libc
 #     - name: configure
 #       run: ./3_Implementation/Build/servo_res.elf
     - name: make
