@@ -8,3 +8,5 @@ Potentiometer has been connected to one of the ADC pins of the AVR ie ATMEGA328.
 [![Cppcheck](https://github.com/MILINDMG301/M2_servomotor_control_using_pot/actions/workflows/codequality.yml/badge.svg)](https://github.com/MILINDMG301/M2_servomotor_control_using_pot/actions/workflows/codequality.yml)
 
 [![C/C++ CI](https://github.com/MILINDMG301/M2_servomotor_control_using_pot/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/MILINDMG301/M2_servomotor_control_using_pot/actions/workflows/c-cpp.yml)
+
+[![Makefile CI](https://github.com/MILINDMG301/M2_servomotor_control_using_pot/actions/workflows/makefile.yml/badge.svg)](https://github.com/MILINDMG301/M2_servomotor_control_using_pot/actions/workflows/makefile.yml)
