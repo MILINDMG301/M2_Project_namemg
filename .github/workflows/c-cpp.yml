@@ -14,7 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: configure
-      run: ./Build/servo_res.elf -C 3_Implementation
+      run: ./3_Implementation/Build/servo_res.elf
     - name: make
       run: make -C 3_Implementation
 #     - name: make check
