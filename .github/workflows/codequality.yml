@@ -16,4 +16,4 @@ jobs:
     - name: get_cppcheck
       run: sudo apt-get install cppcheck
     - name: Code Quality
-      run: 3_Implementation/make analysis
+      run: make analysis -C 3_Implementation
